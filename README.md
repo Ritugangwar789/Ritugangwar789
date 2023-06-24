@@ -1,6 +1,6 @@
 [![MasterHead](https://365datascience.com/resources/blog/thumb@1024_na4njx9zk0m.webp)](https://Ritugangwar789)
 <h1 align="center">Hi 👋, I'm Ritu Gangwar</h1>
-<h3 align="center">A passionate Data Scientist and Backend Developer from India</h3>
+<h3 align="center">A passionate Student exploring Data Science from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.pngitem.com/middle/hmowhbT_business-animated-gif-hd-png-download/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritugangwar789&label=Profile%20views&color=0e75b6&style=flat" alt="ritugangwar789" /> </p>
